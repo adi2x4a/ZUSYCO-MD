@@ -36,7 +36,6 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© Ꮆ乇几乇尺卂ㄒ乇ᗪ 乃ㄚ ㄖ乃ㄥ丨ᐯㄖ几丨乂 乃ㄖㄒ',
-',
   STICKER_PACK : '[ OBLIVONIX ]',
   BAD_WORDS : 'fuck,pussy,sala,bsdk,chutiya,mf,',
   ANTI_BAD : true,
